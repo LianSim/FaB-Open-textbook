@@ -15,8 +15,12 @@ parts:
       - file: file_to_be_added_to_toc.md
    - caption: Design roadmapping open textbook
      chapters:
-      - external: https://books.open.tudelft.nl/home/catalog/view/171/311/553
+      - external:[Design roadmapping] (https://books.open.tudelft.nl/home/catalog/view/171/311/553)
   - caption: Labs
+    chapters:
+  - caption: Check your understanding quizes
+    chapters:
+    - caption: References
     chapters:
     - file: exercises.md
       sections:
@@ -44,7 +48,7 @@ parts:
       - file: extension_exercises/014.md
       - file: extension_exercises/015.md
       - file: extension_exercises/016.md
-  - caption: Miscellaneous
+  - caption: References
     chapters:
     - file: references.md
     - file: changelog.md
