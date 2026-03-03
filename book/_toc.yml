@@ -15,7 +15,8 @@ parts:
       - file: file_to_be_added_to_toc.md
    - caption: Design roadmapping open textbook
      chapters:
-      - external:[Design roadmapping] (https://books.open.tudelft.nl/home/catalog/view/171/311/553)
+     [Jupyter Book](https://jupyterbook.org)
+     [Design roadmapping opentext Book](https://books.open.tudelft.nl/home/catalog/view/171/311/553)
   - caption: Labs
     chapters:
   - caption: Check your understanding quizes
