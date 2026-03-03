@@ -13,8 +13,9 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
-      - file: check_quiz.md
-      - file: checkquiz1.md
+   - caption: Design roadmapping open textbook
+     chapters:
+      - external: https://books.open.tudelft.nl/home/catalog/view/171/311/553
   - caption: Labs
     chapters:
     - file: exercises.md
